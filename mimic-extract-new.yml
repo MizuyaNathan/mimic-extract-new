@@ -1,0 +1,29 @@
+name: mimic_data_extraction
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.10
+  - pip
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
+  - spacy
+  - nltk
+  - openpyxl
+  - pytables
+  - sqlalchemy
+  - psycopg2
+  - boto3
+  - tqdm
+  - requests
+  - cython
+  - jupyter
+  - ipykernel
+
+#  pip install scispacy
+#  pip install https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.5.4/en_core_sci_sm-0.5.4.tar.gz
+#  python -m spacy download en_core_web_sm
+
