@@ -26,4 +26,6 @@ dependencies:
 #  pip install scispacy
 #  pip install https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.5.4/en_core_sci_sm-0.5.4.tar.gz
 #  python -m spacy download en_core_web_sm
-
+#  pip install matplotlib
+#  pip install datapackage
+#  pip install psycopg2-binary
