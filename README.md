@@ -43,7 +43,7 @@ The desired enviroment will be created and activated.
 
 2. Clone [MIT-LCP Repo](https://github.com/MIT-LCP/mimic-code) and run the scripts in `mimic-iii/buildmimic` and `mimic-iii/concepts_postgres` folders to load data and build concepts in psql.
 
-## step 3: generate data
+## Step 3: generate data
 1. cd into utils folder and then run postgres_make_extended_concepts.sh
 
 2. run setup_user_env.sh to export the env variables, feel free to change based on your configuration
